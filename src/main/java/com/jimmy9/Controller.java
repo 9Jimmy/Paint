@@ -1,4 +1,4 @@
-package paint;
+package com.jimmy9;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
